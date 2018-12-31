@@ -2,7 +2,7 @@
 """
 Autor 	: Christian Peralta Guzmán 
 Fecha 	: 31 de Diciembre de 2018
-App	: Sistema de Reportes para el SIDAC - Sistema Integral De Atención Ciudadana de la Presidencia de la República
+App	: Sistema de Reportes para el SIDAC - Sistema Integral De Atención Ciudadana
 """
 
 Instalación, el sistema de reportes debe ser instalado en un virtual enviroment de python con la versión > 3.5
