@@ -14,7 +14,7 @@ app.config['SECRET_KEY'] = 'Estadebeserlallavesecreta'
 
 #configuración del sistema de la base de datos POSTGRESQL con la librería SQLALCHEMY
 app.config['DEBUG'] = True
-app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://makako:1234567@localhost/flask_dashsidac'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://usuario:contrasenia@localhost/flask_dashsidac'
 
 bootstrap = Bootstrap(app)
 
